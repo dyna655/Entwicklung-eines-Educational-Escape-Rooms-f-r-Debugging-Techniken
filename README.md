@@ -21,14 +21,16 @@ Falls du die Escapp-Plattform lokal auf deinem Rechner betreiben möchtest, find
 * Git
 
 ### Installationsschritte
-1. **Repository klonen:**
+1. **Offizielles Repository von Escapp klonen:**
+   Link: https://github.com/IGLUE-project/escapp
    ```bash
-   git clone https://github.com/dyna655/Entwicklung-eines-Educational-Escape-Rooms-f-r-Debugging-Techniken.git
+   git clone https://github.com/IGLUE-project/escapp.git
    cd NAME DES REPO
-2. **Abhängigkeiten installieren:**
+3. **Abhängigkeiten installieren:**
    ```bash
    npm install
-3. **Anwendung starten:**
+4. Einrichtung TODO
+5. **Anwendung starten:**
    ```bash
    npm run start  OR  npm run dev
 
