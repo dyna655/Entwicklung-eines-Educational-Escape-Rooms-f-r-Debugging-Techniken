@@ -23,5 +23,20 @@ Falls du die Escapp-Plattform lokal auf deinem Rechner betreiben möchtest, find
 ### Installationsschritte
 1. **Repository klonen:**
    ```bash
-   git clone
-   cd 
+   git clone https://github.com/dyna655/Entwicklung-eines-Educational-Escape-Rooms-f-r-Debugging-Techniken.git
+   cd NAME DES REPO
+2. **Abhängigkeiten installieren:**
+   ```bash
+   npm install
+3. **Anwendung starten:**
+   ```bash
+   npm run start  OR  npm run dev
+
+---
+
+## 3. Player-Variante der Debugging-Rätsel)
+Für die praktischen Aufgaben des Escape Rooms benötigt man das hier bereitgestellte Java-Projekt, das die fehlerhaften Code-Komponenten sowie Testklassen enthält.
+
+Download: 
+1. Entweder das Repository clonen oder das .zip File (Rätsel_Code.zip) downloaden.
+2. Anschließend in IDE wie IntelliJ als Projekt öffnen.
