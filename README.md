@@ -34,6 +34,8 @@ Falls du die Escapp-Plattform lokal auf deinem Rechner betreiben möchtest, find
    ```bash
    npm run start  OR  npm run dev
 
+Über die Import Funktion wähle dann escape-room-1053.
+
 ---
 
 ## 3. Player-Variante der Debugging-Rätsel)
