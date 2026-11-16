@@ -38,5 +38,5 @@ Falls du die Escapp-Plattform lokal auf deinem Rechner betreiben möchtest, find
 Für die praktischen Aufgaben des Escape Rooms benötigt man das hier bereitgestellte Java-Projekt, das die fehlerhaften Code-Komponenten sowie Testklassen enthält.
 
 Download: 
-1. Entweder das Repository clonen oder das .zip File (Rätsel_Code.zip) downloaden.
+1. Entweder das Repository clonen oder das File Rätsel downloaden.
 2. Anschließend in IDE wie IntelliJ als Projekt öffnen.
